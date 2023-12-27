@@ -45,5 +45,5 @@ THEN I find a concise, descriptive title</li>
 <h2>Assets</h2>
 <p>The following image demonstrates a screenshot of the web application's appearance and functionality:
 </p>
-![Screenshoot of the page that viewers should see with header, links and a preview of the content of the websit.](./assets/images/screenshot.JPG)
+![Screenshoot of the page that viewers should see with header, links and a preview of the content of the websit.](screenshot.JPG)
 * [Link to the Website](https://a-nord.github.io/HoriseonJobTicket-CodeRefactorChallenge/)
